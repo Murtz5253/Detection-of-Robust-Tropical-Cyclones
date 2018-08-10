@@ -1,2 +1,4 @@
 # Detection-of-Robust-Tropical-Cyclones
 This repository contains the work completed in Summer 2018 at Lawrence Berkeley National Lab (Climate and Ecosystem Sciences Division) in preparation for an experiment which hopes to detect robust tropical cyclones within climate data from the High Resolution Model Intercomparison Project.
+# Contents of Repository
+What one will find most useful is the written report, which contains an outline of the methods developed thus far to carry out this experiment once the data becomes available. It describes the relevant tools within TECA (Toolkit for Extreme Climate Analysis) and potential methods of perturbing parameters through example code scripts. One can also find shell files which contain relevant scripts, and bin files which contain the output of TECA test runs.
